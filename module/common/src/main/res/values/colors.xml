@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainBlue">#229AEE</color>
+    <color name="write">#FFFFFF</color>
+    <color name="grayLine">#DCDCDC</color>
+    <color name="bgGrayD2">#D2D2D2</color>
+    <color name="textBlack00">#000000</color>
+    <color name="textGray5A">#5A5A5A</color>
+    <color name="textGray2E">#2E2E2E</color>
+    <color name="textBlue4D">#4D8BCB</color>
+    <color name="textBlue33">#3369A8</color>
+    <color name="bgGrayF3">#F3F6F8</color>
+    <color name="TextRedF2">#F21010</color>
+    <color name="TextRedD0"> #D0011B</color>
+    <color name="TextGrayF5"> #F5F5F5</color>
+    <color name="TextGray96">#969696</color>
+    <color name="TextGray15">#151515</color>
+    <color name="TextGrayF0">#F0F0F0</color>
+    <color name="TextOrangeF5">#F56B40</color>
+    <!-- old colors -->
+
+    <color name="itemNomal">#808080</color>
+
+    <color name="itemDocrationColor">#b8baba</color>
+
+    <!-- 分割线 -->
+    <color name="dividerdefault">#d9d9d9</color>
+    <color name="dividerSecond">#d9d9d9</color>
+
+    <!-- 字体颜色 -->
+    <color name="textTitleColor">#262626</color>
+    <color name="textNomalColor">#a5a5a5</color>
+    <color name="texthuiColor">#5a5a5a</color>
+    <color name="textNomalColor2">#757555</color>
+    <color name="customGreen">#f04430</color>
+    <color name="customRed">#f04430</color>
+    <color name="textWithRed">#fff5f5</color>
+    <color name="blue">#0000ff</color>
+    <color name="textWithGreen">#fff5f5</color>
+    <color name="textWithblue">#4dbbf6</color>
+    <color name="hintColor">#D6D6D6</color>
+    <color name="juhuang">#F56B40</color>
+    <color name="lightblue">#59A6DB</color>
+    <color name="lightred">#D0011B</color>
+    <color name="lightbleak">#2F2F2F</color>
+
+    <!-- 默认的app的背景 -->
+    <color name="appDefaultBackground">#f8f2f2</color>
+    <color name="carlistBackground">#f9f9f9</color>
+
+    <!-- 默认的app每一块的背景 -->
+    <color name="appDefaultSingleBlockBackground">@android:color/white</color>
+
+    <!-- 一般的字体颜色 -->
+    <color name="nomalTextColor">#a5a5a5</color>
+
+    <!-- new colors -->
+
+
+    <!-- actionbar的颜色 -->
+    <color name="nCustomRed">#229AEE</color>
+    <color name="stasusBar">#097AC9</color>
+    <color name="nTextWithRed">#fff5f5</color>
+
+    <!-- #ff9d14 -->
+    <color name="nCustomYellow">#ee402c</color>
+
+    <!-- #34aadc -->
+    <color name="myRed">#f21010</color>
+    <color name="nCustomBlue">#f21010</color>
+    <color name="nCustomOrange">#F56B40</color>
+    <color name="hanfcolor">#888f9290</color>
+    <color name="appointBallFaColor">#EF6807</color>
+    <color name="competitionFaColor">#4D82C5</color>
+    <color name="orderFaColor">#DD6E9E</color>
+    <color name="allFaColor">#6A807F</color>
+    <color name="pkFaColor">#50C3C1</color>
+    <color name="lightwight">#BFBFBF</color>
+
+    <!-- 云启新增 -->
+    <color name="yunqilogin_bg">#F9F9F9</color>
+    <color name="yunqilogin_textcolor">#333333</color>
+    <color name="yunqilogin_button_textcolor">#fff</color>
+    <color name="yunqilogin_msg_textcolor">#999999</color>
+    <color name="yunqilogin_hint_color">#D8D8D8</color>
+    <color name="yunqilogin_line_color">#edebf0</color>
+    <color name="yunqilogin_textview_color">#333333</color>
+    <color name="common_line_color">#C0C0C0</color>
+    <color name="dh_layout_bg">#fff5f5f5</color>
+    <color name="dh_tab_cut">#ffd8d8d8</color>
+    <color name="dh_text_pre">#ff1571e5</color>
+    <color name="light">#ffffffff</color>
+    <color name="bg">#ededef</color>
+    <color name="setting_divider">#9c9a9b</color>
+    <color name="none">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="white40">#ffffff</color>
+    <color name="buttontexthui">#414141</color>
+    <color name="bantouming">#44020202</color>
+    <color name="addressHui">#dfdfdf</color>
+    <color name="drawerHui">#f1f1f1</color>
+
+    <drawable name="tab_item_bg_normal">#ededef</drawable>
+    <drawable name="tab_item_bg_pressed">#f85450</drawable>
+
+    <color name="back_bg_color_selector">#20000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="order_detail">#313131</color>
+    <color name="order_car_number">#2299EE</color>
+    <color name="order_car_status">#ff0000</color>
+
+    <!--  -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ff86f60e</color>
+    <color name="viewfinder_laser_trs">#7f86f60e</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- 这是充值模块:灰色 -->
+    <color name="Gray__Recharge">#cdcdcd</color>
+
+    <color name="grayness">#F8F2F2</color>
+
+
+    <color name="logistics_cheked">@color/nCustomRed</color>
+    <color name="logistics_nocheked">#ffffff</color>
+    <color name="touming">#00000000</color>
+    <color name="hui">#e8e8e8</color>
+
+
+    <!--积分兑换颜色-->
+    <color name="integral_mall_user_photo">#f3f4f6</color>
+    <color name="integral_mall_available">#ee4936</color>
+    <color name="integral_mall_line">#dcdcdc</color>
+    <color name="integral_mall_conditions">#393939</color>
+
+    <!--积分分类颜色-->
+    <color name="integral_classification_choose">#656565</color>
+    <color name="integral_classification_item_bg">#f0f0f0</color>
+    <color name="integral_classification_item_number">#b20a36</color>
+    <color name="integral_classification_item_sales">#858585</color>
+    <color name="integral_classification_complete">#5f5f5f</color>
+    <color name="integral_classification_line">#d7d7d7</color>
+    <color name="button_blue">#02A1EF</color>
+
+    <!--积分筛选-->
+    <color name="integral_screening">#e40101</color>
+    <color name="black">#000000</color>
+    <color name="integral_screening_item_useless">#888888</color>
+    <color name="integral_screening_item_end">#757575</color>
+    <color name="integral_detle_clear">#464646</color>
+
+    <color name="unimportance">#969696</color>
+
+    <color name="flow_check_color">#FF4081</color>
+    <color name="flow_uncheck_color">#8ef807</color>
+    <color name="flow_unenable_color">#5e75d8</color>
+    <color name="flow_biankuang_color">#f55451</color>
+    <color name="flow_unbiankuang_color">#22b3de</color>
+
+    <!--汽车商城选车-->
+
+    <color name="car_mall_choose_bg">#f5f5f5</color>
+    <color name="car_mall_choose_text">#4A4A4A</color>
+    <color name="car_mall_choose_item_pic_text">#D0011B</color>
+
+    <!--首页导航栏字体-->
+    <color name="home_tob_text">#141414</color>
+    <color name="login_edtext_bg">#cc000000</color>
+    <color name="transparent_blue">#cc229AEE</color>
+    <color name="cambridge_blue">#6cc0fa</color>
+    <color name="user_balance">#F6A623</color>
+    <color name="mine_icon">#F6A623</color>
+
+
+</resources>
